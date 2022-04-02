@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>归档 on 划水摸鱼</title>
+        <link>https://zhangxy.me/categories/</link>
+        <description>Recent content in 归档 on 划水摸鱼</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zhangxy.me/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日常</title>
+        <link>https://zhangxy.me/categories/daily/</link>
+        <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://zhangxy.me/categories/daily/</guid>
+        <description>&lt;img src="https://zhangxy.me/categories/daily/pexels-pixabay-434337.jpg" alt="Featured image of post 日常" /&gt;</description>
+        </item>
+        <item>
+        <title>摄影</title>
+        <link>https://zhangxy.me/categories/camera/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zhangxy.me/categories/camera/</guid>
+        <description>&lt;img src="https://zhangxy.me/categories/camera/pexels-vitaly-vlasov-1655817.jpg" alt="Featured image of post 摄影" /&gt;</description>
+        </item>
+        <item>
+        <title>编程</title>
+        <link>https://zhangxy.me/categories/cs/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zhangxy.me/categories/cs/</guid>
+        <description>&lt;img src="https://zhangxy.me/categories/cs/pexels-josh-sorenson-1714208.jpg" alt="Featured image of post 编程" /&gt;</description>
+        </item>
+        <item>
+        <title>阅读</title>
+        <link>https://zhangxy.me/categories/read/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zhangxy.me/categories/read/</guid>
+        <description>&lt;img src="https://zhangxy.me/categories/read/pexels-pixabay-415071.jpg" alt="Featured image of post 阅读" /&gt;</description>
+        </item>
+        <item>
+        <title>音乐</title>
+        <link>https://zhangxy.me/categories/music/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zhangxy.me/categories/music/</guid>
+        <description>&lt;img src="https://zhangxy.me/categories/music/pexels-ekaterina-bolovtsova-6192756.jpg" alt="Featured image of post 音乐" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
